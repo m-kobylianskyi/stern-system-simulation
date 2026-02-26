@@ -16,10 +16,10 @@ generierten Sternsystemen.
 - CMake 4.0+
 
 ## Build & Ausführung
-git clone https://github.com/m-kobylianskyi/stern-system-simulation.git
-cd stern-system-simulation
-cmake -S source -B build
-cmake --build build
+git clone https://github.com/m-kobylianskyi/stern-system-simulation.git  
+cd stern-system-simulation  
+cmake -S source -B build  
+cmake --build build  
 cd source && ../build/Star
 
 ## Screenshots
